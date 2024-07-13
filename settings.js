@@ -3,7 +3,7 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //aumto presence update
-global.AntiCallBot = true // false a i dah chuan, rawn call-tu che automatic a block a ni lovang
+global.AntiCallBot = false // false a i dah chuan, rawn call-tu che automatic a block a ni lovang
 global.GroupWcMsg = false // false a i dah chuan welcome message i off ang
 global.autoTyping = false // true a i dah chuan i type la a lang ang
 global.autoRecord = false // true a i dah chuan Voice record angin i lang ang
@@ -16,7 +16,7 @@ global.mtl_language = false // multi language i hman dawn chuan true ah dah tur
 global.bot_language = 'lus' // I language code dah tur code hman i hriat loh chuan https://herbert70.blogspot.com/p/language-code-for-hbwabot.html?m=1 he link ah hian en thei a ni ang
 
 //info
-global.owner = ['918798751883'] // I phone number in thlak rawh
+global.owner = ['916009259402'] // I phone number in thlak rawh
 global.ownernumber = '918798751883' // I phone number in thlak rawh
 global.ownername = "Laldengi" // I hming dah tel bawk la
 global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
